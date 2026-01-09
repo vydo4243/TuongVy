@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vydo4243&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
-<div align="center">
   <h3>🎓 IT Student at University of Information Technology – VNUHCM</h3>
 </div>
 
